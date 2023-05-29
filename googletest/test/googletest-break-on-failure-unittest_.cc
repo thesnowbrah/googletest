@@ -36,6 +36,7 @@
 //
 // This program will be invoked from a Python unit test.  It is
 // expected to fail.  Don't run it directly.
+//hahahahahahahahhahahahahahahha
 
 #include "gtest/gtest.h"
 
